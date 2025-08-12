@@ -5,17 +5,17 @@ A web-based Health Risk Prediction System built using the **K-Nearest Neighbors 
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Predict health risks using KNN
-- 📊 Accepts essential health metrics as input
-- 🖥️ Clean and simple web interface
-- ⚡ Fast predictions with a pre-trained ML model
-- 🛠️ Easy to customize or extend with new models
+-  Predict health risks using KNN
+-  Accepts essential health metrics as input
+-  Clean and simple web interface
+-  Fast predictions with a pre-trained ML model
+-  Easy to customize or extend with new models
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 - **Algorithm**: K-Nearest Neighbors (KNN)
 - **Library**: scikit-learn
@@ -30,7 +30,7 @@ A web-based Health Risk Prediction System built using the **K-Nearest Neighbors 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 knn-health-predictor/
@@ -51,12 +51,12 @@ knn-health-predictor/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/knn-health-predictor.git
+git clone https://github.com/nithinskumar866/KNN_model.git
 cd knn-health-predictor
 ```
 
@@ -86,7 +86,7 @@ Visit: [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
 
 ---
 
-## 🧪 Sample Dataset
+##  Sample Dataset
 
 Example from `knn_health_risk_dataset.csv`:
 
@@ -100,13 +100,17 @@ age,bmi,blood_pressure,glucose,cholesterol,risk
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
+Input page:
+![alt text](image-1.png)
 
+Output:
+![alt text](image-2.png)
 
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Add user authentication
 - Track and visualize user health trends
@@ -116,12 +120,3 @@ age,bmi,blood_pressure,glucose,cholesterol,risk
 
 ---
 
-## 📬 Contact
-
-For feedback or queries, reach out at `your.email@example.com` or raise an issue.
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
